@@ -28,7 +28,7 @@ class Predictor:
             intput = cv2.dnn.blobFromImage(self.image, 1 / 255, self.image_size, crop=False)
             self.model.setInput(intput)
             output = self.model.forward(layers if layers else None)
-            self.prediction_time = time.time() - self.read_image_time
+            self.prediction_time = time.time() - (self.read_image_time + self.start_time)
             return output
         except:
             raise
