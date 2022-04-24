@@ -22,3 +22,8 @@ Then, install requirements:
 Finally, execute tests:
 
 `pytest ./tests -vs`
+
+## TODO
+
+- Mobilenetv2 Implementation
+- Test on Raspberry Pi 3
