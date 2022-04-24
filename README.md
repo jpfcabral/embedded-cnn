@@ -13,7 +13,7 @@ Then, install requirements:
 `cd embedded-cnn`
 
 
-`pip install -r requirementhttps://github.com/jpfcabral/embedded-cnn.git `
+`pip install -r requirements.txt `
 
 (Optional) Install raspbbery module to verify temperature
 
