@@ -1,6 +1,6 @@
 # Embedded CNN
 
-This repository presents the results of a study designed to assess the  performance of Convolutional Neural Networks (CNN) on embedded devices.
+This repository presents the results of a study designed to assess the  performance of Convolutional Neural Networks (CNN) on embedded devices. The test is performed on deep learning models, containing many convolutions in  hidden layers as SSD, YOLO, etc.
 
 ## Usage
 
