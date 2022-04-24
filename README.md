@@ -6,7 +6,7 @@ This repository presents the results of a study designed to assess the  performa
 
 On terminal, copy:
 
-` https://github.com/jpfcabral/embedded-cnn.git `
+`git clone https://github.com/jpfcabral/embedded-cnn.git `
 
 Then, install requirements:
 
