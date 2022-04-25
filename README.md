@@ -33,4 +33,4 @@ Finally, execute tests:
 |Device          |SoC             |CPU                |RAM (MB)|GPU                          |
 |----------------|----------------|-------------------|--------|-----------------------------|
 |Raspberry Pi 1B+|Broadcom BCM2835|1x ARM 700 MHz     |512     |Broadcom VideoCore IV 250 MHz|
-|Raspberry Pi 2B |Broadcom BCM2836|4x Cortex-A7 900MHz|1024    |Broadcom VideoCore IV 250 MHz|
+|Raspberry Pi 2B |Broadcom BCM2836|4x Cortex-A7 900 MHz|1024    |Broadcom VideoCore IV 250 MHz|
