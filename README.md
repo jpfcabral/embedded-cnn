@@ -25,7 +25,7 @@ Finally, execute tests:
 
 ## TODO
 
-- Mobilenetv2 Implementation
+- Mobilenetv2, Yolov5 s/m/.. Implementation
 - Test on Raspberry Pi 3
 
 ## Tested devices
