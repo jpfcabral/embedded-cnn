@@ -14,7 +14,7 @@ class Predictor:
     def __read_image(self, image_path):
         try:
             image = cv2.imread(image_path)
-            image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+            image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
             return image
         except:
             raise Exception("Error reading image")
