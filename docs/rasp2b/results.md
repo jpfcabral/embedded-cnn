@@ -1,1 +1,0 @@
-![image](./Increase%20in%20Temperature.png ("Increase in Temperature"))
